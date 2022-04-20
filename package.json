@@ -1,0 +1,24 @@
+{
+  "name": "avid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TezeractDevvy/Avid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TezeractDevvy/Avid/issues"
+  },
+  "homepage": "https://github.com/TezeractDevvy/Avid#readme",
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "discord.js": "^13.6.0"
+  }
+}
